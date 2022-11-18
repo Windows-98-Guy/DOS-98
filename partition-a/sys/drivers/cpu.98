@@ -1,0 +1,4 @@
+model : 98-cpu-duo-chipset
+clock-size : 200MHz
+integrated-graphics : disabled
+default-graphics-chip : false

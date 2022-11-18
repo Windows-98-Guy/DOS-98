@@ -1,0 +1,6 @@
+{
+    "bootloader_version" : 1,
+    "bootloader_type" : "98_kernel_additional",
+    "release_date" : "2022/10/10",
+    "$schema": "http://json-schema.org/schema"
+}

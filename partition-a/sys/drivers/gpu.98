@@ -1,0 +1,3 @@
+model : 98-gpu-crystalVision-chipset
+clock-size : 1000MHz
+default-graphics-chip : true
